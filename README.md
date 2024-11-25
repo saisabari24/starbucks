@@ -1,7 +1,5 @@
 ![Starbucks Clone Deployment](https://github.com/user-attachments/assets/6b654f47-9537-4b88-9584-41c760fc49ac)
 
-# **Check out my LinkedIn post **
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7266745430871293952?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 # Deploy Starbucks Clone Application AWS using DevSecOps Approach
 https://app.eraser.io/workspace/59NJfCay26dUMl5YAlFl?origin=share
